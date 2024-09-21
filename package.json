@@ -1,0 +1,22 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikhailPonomarev/jest.git"
+  },
+  "author": "Mikhail Ponomarev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikhailPonomarev/jest/issues"
+  },
+  "homepage": "https://github.com/MikhailPonomarev/jest#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
